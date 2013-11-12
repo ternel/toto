@@ -1,4 +1,4 @@
-Solution en français
+OH GOD SOLUTION en français
 ====================================
 
 > Finally a tool for typography nerds.
