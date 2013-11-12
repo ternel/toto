@@ -1,4 +1,4 @@
-SOLUTOIN YEAHYEAHY
+OH GOD SOLUTION YEAHYEAHY
 ====================================
 
 > Finally a tool for typography nerds.
