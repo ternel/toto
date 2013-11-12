@@ -1,4 +1,4 @@
-Problème en français
+WTF Problème en français
 ====================================
 
 > Finally a tool for typography nerds.
