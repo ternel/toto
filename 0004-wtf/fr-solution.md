@@ -1,4 +1,4 @@
-Solution en français
+WTF Solution en français
 ====================================
 
 > Finally a tool for typography nerds.
