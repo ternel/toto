@@ -1,4 +1,4 @@
-SOLUTOIN YEAHYEAHY
+WTF Solution - English
 ====================================
 
 > Finally a tool for typography nerds.
